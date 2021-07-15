@@ -1,0 +1,4 @@
+This is an apple.
+This is Python.
+Today is a wonderful day.
+I code everyday.

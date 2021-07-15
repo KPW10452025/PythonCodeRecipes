@@ -1,0 +1,4 @@
+Hello, this is a file for leaning open file in Python3.
+This is an apple.
+There have several frameworks.
+You can use Flask, Django to build a website.
